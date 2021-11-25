@@ -1,7 +1,7 @@
 {
-  "name": "youtube-dl-exec",
-  "description": "A simple Node.js wrapper for youtube-dl",
-  "homepage": "https://nicedoc.io/microlinkhq/youtube-dl-exec",
+  "name": "@borodutch-labs/yt-dlp-exec",
+  "description": "A simple Node.js wrapper for yt-dlp",
+  "homepage": "https://github.com/Borodutch/youtube-dl-exec",
   "version": "2.0.0",
   "main": "src/index.js",
   "author": {
